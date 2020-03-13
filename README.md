@@ -1,2 +1,2 @@
 # goto
-FaaS URL Shortener
+OpenFaaS URL Shortener
