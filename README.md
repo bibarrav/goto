@@ -1,4 +1,4 @@
 # goto
 OpenFaaS URL Shortener
 
-Simple function to short URLs
+Simple & small function to short URLs
